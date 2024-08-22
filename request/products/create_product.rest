@@ -1,0 +1,1006 @@
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Athena",
+  "excerpt": "Luxurious velvet sofa",
+  "price": 8400000,
+  "imageSrc": "/products/lolito.png",
+  "discount": 35,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Seaside",
+  "excerpt": "Beach bar set",
+  "price": 600000,
+  "imageSrc": "/products/respira.png",
+  "discount": 10,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Verona",
+  "excerpt": "Classic wooden chair",
+  "price": 2500000,
+  "imageSrc": "/products/syltherine.png",
+  "discount": 30,
+  "new": false,
+  "range": "dining"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Oslo",
+  "excerpt": "Scandinavian lounge chair",
+  "price": 2900000,
+  "imageSrc": "/products/leviosa.png",
+  "discount": 25,
+  "new": false,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Monaco",
+  "excerpt": "Elegant leather sofa",
+  "price": 8200000,
+  "imageSrc": "/products/lolito.png",
+  "discount": 35,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Sunset",
+  "excerpt": "Patio bar set",
+  "price": 550000,
+  "imageSrc": "/products/respira.png",
+  "discount": 5,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Lumos",
+  "excerpt": "Bright night lamp",
+  "price": 1400000,
+  "imageSrc": "/products/grifo.png",
+  "discount": 10,
+  "new": false,
+  "range": "bedroom"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Latte",
+  "excerpt": "Modern coffee mug",
+  "price": 180000,
+  "imageSrc": "/products/muggo.png",
+  "discount": 10,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Serenity",
+  "excerpt": "Deluxe bed set",
+  "price": 7500000,
+  "imageSrc": "/products/pingky.png",
+  "discount": 45,
+  "new": false,
+  "range": "bedroom"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Petal",
+  "excerpt": "Stylish flower pot",
+  "price": 520000,
+  "imageSrc": "/products/potty.png",
+  "discount": 10,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Gotham",
+  "excerpt": "Industrial dining chair",
+  "price": 2700000,
+  "imageSrc": "/products/syltherine.png",
+  "discount": 20,
+  "new": false,
+  "range": "dining"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Nova",
+  "excerpt": "Contemporary lounge chair",
+  "price": 3100000,
+  "imageSrc": "/products/leviosa.png",
+  "discount": 20,
+  "new": false,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Athena",
+  "excerpt": "Luxurious velvet sofa",
+  "price": 8400000,
+  "imageSrc": "/products/lolito.png",
+  "discount": 35,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Seaside",
+  "excerpt": "Beach bar set",
+  "price": 600000,
+  "imageSrc": "/products/respira.png",
+  "discount": 10,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Verona",
+  "excerpt": "Classic wooden chair",
+  "price": 2500000,
+  "imageSrc": "/products/syltherine.png",
+  "discount": 30,
+  "new": false,
+  "range": "dining"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Oslo",
+  "excerpt": "Scandinavian lounge chair",
+  "price": 2900000,
+  "imageSrc": "/products/leviosa.png",
+  "discount": 25,
+  "new": false,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Monaco",
+  "excerpt": "Elegant leather sofa",
+  "price": 8200000,
+  "imageSrc": "/products/lolito.png",
+  "discount": 35,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Sunset",
+  "excerpt": "Patio bar set",
+  "price": 550000,
+  "imageSrc": "/products/respira.png",
+  "discount": 5,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Lumos",
+  "excerpt": "Bright night lamp",
+  "price": 1400000,
+  "imageSrc": "/products/grifo.png",
+  "discount": 10,
+  "new": false,
+  "range": "bedroom"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Latte",
+  "excerpt": "Modern coffee mug",
+  "price": 180000,
+  "imageSrc": "/products/muggo.png",
+  "discount": 10,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Serenity",
+  "excerpt": "Deluxe bed set",
+  "price": 7500000,
+  "imageSrc": "/products/pingky.png",
+  "discount": 45,
+  "new": false,
+  "range": "bedroom"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Petal",
+  "excerpt": "Stylish flower pot",
+  "price": 520000,
+  "imageSrc": "/products/potty.png",
+  "discount": 10,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Gotham",
+  "excerpt": "Industrial dining chair",
+  "price": 2700000,
+  "imageSrc": "/products/syltherine.png",
+  "discount": 20,
+  "new": false,
+  "range": "dining"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Nova",
+  "excerpt": "Contemporary lounge chair",
+  "price": 3100000,
+  "imageSrc": "/products/leviosa.png",
+  "discount": 20,
+  "new": false,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Athena",
+  "excerpt": "Luxurious velvet sofa",
+  "price": 8400000,
+  "imageSrc": "/products/lolito.png",
+  "discount": 35,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Seaside",
+  "excerpt": "Beach bar set",
+  "price": 600000,
+  "imageSrc": "/products/respira.png",
+  "discount": 10,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Verona",
+  "excerpt": "Classic wooden chair",
+  "price": 2500000,
+  "imageSrc": "/products/syltherine.png",
+  "discount": 30,
+  "new": false,
+  "range": "dining"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Oslo",
+  "excerpt": "Scandinavian lounge chair",
+  "price": 2900000,
+  "imageSrc": "/products/leviosa.png",
+  "discount": 25,
+  "new": false,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Monaco",
+  "excerpt": "Elegant leather sofa",
+  "price": 8200000,
+  "imageSrc": "/products/lolito.png",
+  "discount": 35,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Sunset",
+  "excerpt": "Patio bar set",
+  "price": 550000,
+  "imageSrc": "/products/respira.png",
+  "discount": 5,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Lumos",
+  "excerpt": "Bright night lamp",
+  "price": 1400000,
+  "imageSrc": "/products/grifo.png",
+  "discount": 10,
+  "new": false,
+  "range": "bedroom"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Latte",
+  "excerpt": "Modern coffee mug",
+  "price": 180000,
+  "imageSrc": "/products/muggo.png",
+  "discount": 10,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Serenity",
+  "excerpt": "Deluxe bed set",
+  "price": 7500000,
+  "imageSrc": "/products/pingky.png",
+  "discount": 45,
+  "new": false,
+  "range": "bedroom"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Petal",
+  "excerpt": "Stylish flower pot",
+  "price": 520000,
+  "imageSrc": "/products/potty.png",
+  "discount": 10,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Gotham",
+  "excerpt": "Industrial dining chair",
+  "price": 2700000,
+  "imageSrc": "/products/syltherine.png",
+  "discount": 20,
+  "new": false,
+  "range": "dining"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Nova",
+  "excerpt": "Contemporary lounge chair",
+  "price": 3100000,
+  "imageSrc": "/products/leviosa.png",
+  "discount": 20,
+  "new": false,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Athena",
+  "excerpt": "Luxurious velvet sofa",
+  "price": 8400000,
+  "imageSrc": "/products/lolito.png",
+  "discount": 35,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Seaside",
+  "excerpt": "Beach bar set",
+  "price": 600000,
+  "imageSrc": "/products/respira.png",
+  "discount": 10,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Verona",
+  "excerpt": "Classic wooden chair",
+  "price": 2500000,
+  "imageSrc": "/products/syltherine.png",
+  "discount": 30,
+  "new": false,
+  "range": "dining"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Oslo",
+  "excerpt": "Scandinavian lounge chair",
+  "price": 2900000,
+  "imageSrc": "/products/leviosa.png",
+  "discount": 25,
+  "new": false,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Monaco",
+  "excerpt": "Elegant leather sofa",
+  "price": 8200000,
+  "imageSrc": "/products/lolito.png",
+  "discount": 35,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Sunset",
+  "excerpt": "Patio bar set",
+  "price": 550000,
+  "imageSrc": "/products/respira.png",
+  "discount": 5,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Lumos",
+  "excerpt": "Bright night lamp",
+  "price": 1400000,
+  "imageSrc": "/products/grifo.png",
+  "discount": 10,
+  "new": false,
+  "range": "bedroom"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Latte",
+  "excerpt": "Modern coffee mug",
+  "price": 180000,
+  "imageSrc": "/products/muggo.png",
+  "discount": 10,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Serenity",
+  "excerpt": "Deluxe bed set",
+  "price": 7500000,
+  "imageSrc": "/products/pingky.png",
+  "discount": 45,
+  "new": false,
+  "range": "bedroom"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Petal",
+  "excerpt": "Stylish flower pot",
+  "price": 520000,
+  "imageSrc": "/products/potty.png",
+  "discount": 10,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Gotham",
+  "excerpt": "Industrial dining chair",
+  "price": 2700000,
+  "imageSrc": "/products/syltherine.png",
+  "discount": 20,
+  "new": false,
+  "range": "dining"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Nova",
+  "excerpt": "Contemporary lounge chair",
+  "price": 3100000,
+  "imageSrc": "/products/leviosa.png",
+  "discount": 20,
+  "new": false,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Athena",
+  "excerpt": "Luxurious velvet sofa",
+  "price": 8400000,
+  "imageSrc": "/products/lolito.png",
+  "discount": 35,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Seaside",
+  "excerpt": "Beach bar set",
+  "price": 600000,
+  "imageSrc": "/products/respira.png",
+  "discount": 10,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Verona",
+  "excerpt": "Classic wooden chair",
+  "price": 2500000,
+  "imageSrc": "/products/syltherine.png",
+  "discount": 30,
+  "new": false,
+  "range": "dining"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Oslo",
+  "excerpt": "Scandinavian lounge chair",
+  "price": 2900000,
+  "imageSrc": "/products/leviosa.png",
+  "discount": 25,
+  "new": false,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Monaco",
+  "excerpt": "Elegant leather sofa",
+  "price": 8200000,
+  "imageSrc": "/products/lolito.png",
+  "discount": 35,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Sunset",
+  "excerpt": "Patio bar set",
+  "price": 550000,
+  "imageSrc": "/products/respira.png",
+  "discount": 5,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Lumos",
+  "excerpt": "Bright night lamp",
+  "price": 1400000,
+  "imageSrc": "/products/grifo.png",
+  "discount": 10,
+  "new": false,
+  "range": "bedroom"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Latte",
+  "excerpt": "Modern coffee mug",
+  "price": 180000,
+  "imageSrc": "/products/muggo.png",
+  "discount": 10,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Serenity",
+  "excerpt": "Deluxe bed set",
+  "price": 7500000,
+  "imageSrc": "/products/pingky.png",
+  "discount": 45,
+  "new": false,
+  "range": "bedroom"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Petal",
+  "excerpt": "Stylish flower pot",
+  "price": 520000,
+  "imageSrc": "/products/potty.png",
+  "discount": 10,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Gotham",
+  "excerpt": "Industrial dining chair",
+  "price": 2700000,
+  "imageSrc": "/products/syltherine.png",
+  "discount": 20,
+  "new": false,
+  "range": "dining"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Nova",
+  "excerpt": "Contemporary lounge chair",
+  "price": 3100000,
+  "imageSrc": "/products/leviosa.png",
+  "discount": 20,
+  "new": false,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Athena",
+  "excerpt": "Luxurious velvet sofa",
+  "price": 8400000,
+  "imageSrc": "/products/lolito.png",
+  "discount": 35,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Seaside",
+  "excerpt": "Beach bar set",
+  "price": 600000,
+  "imageSrc": "/products/respira.png",
+  "discount": 10,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Verona",
+  "excerpt": "Classic wooden chair",
+  "price": 2500000,
+  "imageSrc": "/products/syltherine.png",
+  "discount": 30,
+  "new": false,
+  "range": "dining"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Oslo",
+  "excerpt": "Scandinavian lounge chair",
+  "price": 2900000,
+  "imageSrc": "/products/leviosa.png",
+  "discount": 25,
+  "new": false,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Monaco",
+  "excerpt": "Elegant leather sofa",
+  "price": 8200000,
+  "imageSrc": "/products/lolito.png",
+  "discount": 35,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Sunset",
+  "excerpt": "Patio bar set",
+  "price": 550000,
+  "imageSrc": "/products/respira.png",
+  "discount": 5,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Lumos",
+  "excerpt": "Bright night lamp",
+  "price": 1400000,
+  "imageSrc": "/products/grifo.png",
+  "discount": 10,
+  "new": false,
+  "range": "bedroom"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Latte",
+  "excerpt": "Modern coffee mug",
+  "price": 180000,
+  "imageSrc": "/products/muggo.png",
+  "discount": 10,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Serenity",
+  "excerpt": "Deluxe bed set",
+  "price": 7500000,
+  "imageSrc": "/products/pingky.png",
+  "discount": 45,
+  "new": false,
+  "range": "bedroom"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Petal",
+  "excerpt": "Stylish flower pot",
+  "price": 520000,
+  "imageSrc": "/products/potty.png",
+  "discount": 10,
+  "new": true,
+  "range": "living"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Gotham",
+  "excerpt": "Industrial dining chair",
+  "price": 2700000,
+  "imageSrc": "/products/syltherine.png",
+  "discount": 20,
+  "new": false,
+  "range": "dining"
+}
+###
+
+POST http://localhost:3001/api/products
+Content-Type: application/json
+
+{
+  "name": "Nova",
+  "excerpt": "Contemporary lounge chair",
+  "price": 3100000,
+  "imageSrc": "/products/leviosa.png",
+  "discount": 20,
+  "new": false,
+  "range": "living"
+}

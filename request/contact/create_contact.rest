@@ -1,0 +1,11 @@
+POST http://localhost:3001/api/contact
+Content-Type: application/json
+
+{
+  "name": "Alvaro de Santos",
+  "email": "alvarodesants@gmail.com",
+  "subject": "recent dining table purchase",
+  "message": "i recently bought a dining table and the result i received contained missing parts"
+}
+
+###
